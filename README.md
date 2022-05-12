@@ -1,6 +1,6 @@
-# p1
-
-A new Flutter project.
+# Disclaimer: this project is not created by me, but instead by Oflutter (youtube name)
+# practice 1
+Video Link:  https://youtu.be/FlGTSb7_9jk 
 
 ## Getting Started
 
